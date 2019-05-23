@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/stanislav/Workspace/GoFriends/uppeople-front-app/src/components/Header/Header.css","64.2f4331d0.chunk.css"],"names":[],"mappings":"AAAA,iCACE,kBCCF","file":"64.2f4331d0.chunk.css","sourcesContent":[".app-header .navbar-toggler-icon {\n  color: var(--white);\n}\n",".app-header .navbar-toggler-icon {\n  color: var(--white);\n}\n\n"]}
